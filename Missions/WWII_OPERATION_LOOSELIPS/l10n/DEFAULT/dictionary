@@ -1,0 +1,734 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_UnitName_72"] = "Pilot #009",
+    ["DictKey_WptName_464"] = "",
+    ["DictKey_UnitName_156"] = "Unit #024",
+    ["DictKey_GroupName_537"] = "BLUE01",
+    ["DictKey_GroupName_65"] = "RED14",
+    ["DictKey_UnitName_62"] = "Pilot #004",
+    ["DictKey_UnitName_226"] = "Pilot #034",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_GroupName_214"] = "BLUE05",
+    ["DictKey_GroupName_73"] = "RED9",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_UnitName_192"] = "Unit #181",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_UnitName_90"] = "Pilot #040",
+    ["DictKey_WptName_497"] = "",
+    ["DictKey_WptName_482"] = "",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_UnitName_158"] = "Unit #022",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_30"] = "do\
+vecflak('blue', 'Rebelflak1','low',5)\
+end",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_UnitName_130"] = "Unit #203",
+    ["DictKey_GroupName_216"] = "BLUE07",
+    ["DictKey_UnitName_584"] = "RED04",
+    ["DictKey_UnitName_548"] = "BLUE04",
+    ["DictKey_UnitName_183"] = "Unit #190",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_GroupName_103"] = "Resupply #001",
+    ["DictKey_UnitName_153"] = "Unit #002",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_95"] = "RAI3",
+    ["DictKey_23"] = "do\
+vecflak('blue', 'Redflak6','low',3)\
+end",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_WptName_515"] = "",
+    ["DictKey_UnitName_114"] = "Unit #030",
+    ["DictKey_WptName_521"] = "",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_31"] = "do\
+vecflak('red', 'Rebelflak2','low',5)\
+end",
+    ["DictKey_GroupName_194"] = "Black Wolf",
+    ["DictKey_UnitName_201"] = "Pilot #020",
+    ["DictKey_UnitName_572"] = "RED01",
+    ["DictKey_GroupName_83"] = "RED09",
+    ["DictKey_UnitName_169"] = "Unit #051",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_WptName_570"] = "",
+    ["DictKey_UnitName_128"] = "Peter",
+    ["DictKey_WptName_586"] = "",
+    ["DictKey_UnitName_106"] = "Unit #026",
+    ["DictKey_GroupName_71"] = "RED8",
+    ["DictKey_GroupName_196"] = "Drop Dead Gorgeous",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_UnitName_58"] = "Pilot #001",
+    ["DictKey_35"] = "do\
+movvecflak('blue','Unit #1','high',2)\
+end",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_GroupName_559"] = "BLUE10",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_43"] = "do\
+movvecflak('blue','Unit #032','high',1)\
+end",
+    ["DictKey_UnitName_178"] = "Unit #042",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_UnitName_64"] = "RED13",
+    ["DictKey_15"] = "do\
+flakmgr()\
+end",
+    ["DictKey_UnitName_165"] = "Unit #015",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_UnitName_215"] = "BLUE05",
+    ["DictKey_GroupName_202"] = "Battering Ram",
+    ["DictKey_UnitName_68"] = "RED15",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_33"] = "do\
+vecflak('red', 'Rebelflak3','low',5)\
+end",
+    ["DictKey_ActionText_532"] = "mist.respawnGroup('RAI1', true)",
+    ["DictKey_UnitName_203"] = "Pilot #021",
+    ["DictKey_UnitName_147"] = "Unit #008",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_UnitName_86"] = "RED12",
+    ["DictKey_GroupName_92"] = "RAI2",
+    ["DictKey_GroupName_61"] = "RED Whiplash",
+    ["DictKey_GroupName_236"] = "Gimme Some Sugar",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_UnitName_91"] = "RAI1",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_UnitName_545"] = "BLUE03",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_GroupName_225"] = "BAI2",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_WptName_518"] = "",
+    ["DictKey_WptName_539"] = "",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_GroupName_63"] = "RED13",
+    ["DictKey_GroupName_550"] = "New Airplane Group #004",
+    ["DictKey_GroupName_67"] = "RED15",
+    ["DictKey_UnitName_150"] = "Unit #005",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_152"] = "Unit #003",
+    ["DictKey_GroupName_79"] = "RED11",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_28"] = "do\
+vecflak('red', 'Blueflak3','low',3)\
+end",
+    ["DictKey_52"] = "if not Group.getByName('BAI4') then\
+   mist.respawnGroup('BAI4', true)\
+ end",
+    ["DictKey_32"] = "do\
+vecflak('blue', 'Rebelflak2','low',5)\
+end",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_19"] = "do\
+vecflak('blue', 'Redflak2','low',3)\
+end",
+    ["DictKey_UnitName_542"] = "Pilot #013",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_UnitName_560"] = "BLUE10",
+    ["DictKey_WptName_469"] = "",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_UnitName_122"] = "Unit #037",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_GroupName_575"] = "RED02",
+    ["DictKey_39"] = "do\
+movvecflak('blue','Unit #028','high',1)\
+end",
+    ["DictKey_41"] = "do\
+movvecflak('blue','Unit #030','high',2)\
+end",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_UnitName_223"] = "Pilot #032",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_GroupName_127"] = "Peter",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_UnitName_187"] = "Unit #186",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_211"] = "Pilot #025",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_GroupName_544"] = "BLUE03",
+    ["DictKey_UnitName_191"] = "Unit #182",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_UnitName_176"] = "Unit #044",
+    ["DictKey_UnitName_133"] = "Unit #200",
+    ["DictKey_UnitName_140"] = "Unit #193",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_14"] = "Flak script loaded",
+    ["DictKey_WptName_490"] = "",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_24"] = "do\
+vecflak('red', 'Krymsk','high',5)\
+end",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_UnitName_60"] = "Pilot #002",
+    ["DictKey_40"] = "do\
+movvecflak('blue','Unit #029','high',1)\
+end",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_WptName_442"] = "",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_GroupName_541"] = "BLUE2",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_UnitName_167"] = "Unit #013",
+    ["DictKey_GroupName_562"] = "BLUE11",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_UnitName_154"] = "Unit #001",
+    ["DictKey_17"] = "Novorossiysk is under attack!",
+    ["DictKey_GroupName_565"] = "BLUE12",
+    ["DictKey_46"] = "BLUE IS VICTORIOUS!  All 9 German resupply ships have been destroyed.  Congratulations!  REDFOR shall now hang their head in shame until Mission rotation.",
+    ["DictKey_UnitName_221"] = "BLUE08",
+    ["DictKey_UnitName_554"] = "BLUE02",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_GroupName_101"] = "Resupply",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_GroupName_231"] = "BAI4",
+    ["DictKey_UnitName_110"] = "Unit #028",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_44"] = "SHORE BATTERIES ARE CALLING IN ENEMY AIRCRAFT FEET WET SEARCHING FOR CONVOY!!!",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_UnitName_551"] = "Pilot #018",
+    ["DictKey_UnitName_82"] = "Pilot #027",
+    ["DictKey_GroupName_583"] = "RED04",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_34"] = "do\
+vecflak('blue', 'Rebelflak3','low',5)\
+end",
+    ["DictKey_UnitName_209"] = "Pilot #024",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_UnitName_174"] = "Unit #046",
+    ["DictKey_UnitName_177"] = "Unit #043",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_524"] = "",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_54"] = "if not Group.getByName('RAI2') then\
+   mist.respawnGroup('RAI2', true)\
+ end",
+    ["DictKey_38"] = "do\
+movvecflak('blue','Unit #027','high',2)\
+end",
+    ["DictKey_WptName_552"] = "",
+    ["DictKey_18"] = "do\
+vecflak('blue', 'Redflak1','low',3)\
+end",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_53"] = "if not Group.getByName('RAI1') then\
+   mist.respawnGroup('RAI1', true)\
+ end",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_135"] = "Unit #198",
+    ["DictKey_UnitName_233"] = "BAI4",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_20"] = "do\
+vecflak('blue', 'Redflak3','low',3)\
+end",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_516"] = "",
+    ["DictKey_WptName_578"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_GroupName_113"] = "Resupply #006",
+    ["DictKey_GroupName_212"] = "Silent Eagle",
+    ["DictKey_25"] = "Krymsk is under attack!",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_GroupName_200"] = "Jersey Devil",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_UnitName_76"] = "Pilot #011",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_GroupName_553"] = "BLUE02",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_ActionText_534"] = "mist.respawnGroup('RAI3', true)",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_UnitName_157"] = "Unit #023",
+    ["DictKey_GroupName_129"] = "Novorrosysk AF AAA",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_UnitName_74"] = "Pilot #010",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_WptName_519"] = "",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_UnitName_171"] = "Unit #049",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_29"] = "do\
+vecflak('red', 'Rebelflak1','low',5)\
+end",
+    ["DictKey_UnitName_99"] = "Pilot #046",
+    ["DictKey_WptName_520"] = "",
+    ["DictKey_GroupName_220"] = "BLUE08",
+    ["DictKey_UnitName_170"] = "Unit #050",
+    ["DictKey_GroupName_556"] = "BLUE09",
+    ["DictKey_UnitName_78"] = "RED10 ",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_sortie_241"] = "Loose Lips",
+    ["DictKey_UnitName_93"] = "Pilot #042",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_WptName_581"] = "",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_UnitName_173"] = "Unit #047",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_UnitName_80"] = "RED11",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_36"] = "do\
+movvecflak('blue','Unit #025','high',1)\
+end",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_21"] = "do\
+vecflak('blue', 'Redflak4','low',3)\
+end",
+    ["DictKey_WptName_473"] = "",
+    ["DictKey_UnitName_148"] = "Unit #007",
+    ["DictKey_42"] = "do\
+movvecflak('blue','Unit #031','high',1)\
+end",
+    ["DictKey_51"] = "if not Group.getByName('BAI3') then\
+   mist.respawnGroup('BAI3', true)\
+ end",
+    ["DictKey_UnitName_213"] = "Pilot #026",
+    ["DictKey_UnitName_97"] = "RAI3",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_GroupName_107"] = "Resupply #003",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_ActionText_530"] = "mist.respawnGroup('BAI3', true)",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_UnitName_160"] = "Unit #020",
+    ["DictKey_56"] = "if not Group.getByName('RAI4') then\
+   mist.respawnGroup('RAI4', true)\
+ end",
+    ["DictKey_descriptionRedTask_239"] = "[ENGLISH]\
+\
+Novorrosysk Tower: Channel A *HOMEPLATE*\
+Gelendzhik Tower: Channel B\
+Anapa Tower: Channel C\
+\
+Defend your fleet stationed in Novorrosysk harbor until the resupply convoy (or ships thereof) can reach them.   \
+\
+Study the flakmap carefully and note GAPS for exploitation.\
+\
+HINTS\
+\
+*  A belt of insurgents will fire flak at BOTH coalitions.  Note these positions accordingly.\
+*  Use Flak Battery numbers to your advantage - flak can only target the same number of enemy planes as they have battery numbers at any given time!  Team up to hide wingmen.\
+\
+Known Flak Strengths\
+\
+Krymsk:  5, High strength each\
+Blue zones: 3, Low strength each\
+Rebel zones: 5, Low strength each\
+\
+[ESPAÑOL]\
+\
+Torre Novorrosysk: Canal A *HOMEPLATE*\
+Torre Gelendzhik: Canal B\
+Tower Anapa: Channel C\
+\
+Defienda la flota estacionada en el puerto de Novorrosysk hasta que el convoy de suministro pueda alcanzar el puerto (o los barcos del mismo) puedan alcanzarlos.   \
+\
+Estudie el mapa de la artillería antiaérea cuidadosamente y note las brechas para tomar ventaja\
+\
+A tener en cuenta\
+\
+* Un grupo de subversivos dispará artillería antiaérea a AMBAS coaliciones. Tome nota de esas posiciones. \
+* Use los números de baterías a su ventaja. La artillería antiaérea solo puede apuntar a tantos aviones enemigos como números de baterías haya al mismo tiempo. Haga equipo con un compañero para ocultarse.\
+ \
+Intensidad de las antiaéreas conocidas\
+\
+Krymsk:  5, Alta intensidad\
+Zonas Aliadas: 3, Baja  intensidad.\
+Zonas Rebeldes: 5, Baja  intensidad",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_GroupName_234"] = "Little Miss Texas",
+    ["DictKey_UnitName_161"] = "Unit #019",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_219"] = "My Achin Back",
+    ["DictKey_UnitName_139"] = "Unit #194",
+    ["DictKey_26"] = "do\
+vecflak('red', 'Blueflak1','low',3)\
+end",
+    ["DictKey_GroupName_85"] = "RED12",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_UnitName_70"] = "RED16",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_UnitName_120"] = "Unit #039",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_UnitName_144"] = "Unit #011",
+    ["DictKey_ActionText_531"] = "mist.respawnGroup('BAI4', true)",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_GroupName_59"] = "RED Krupi",
+    ["DictKey_UnitName_96"] = "Pilot #044",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_UnitName_118"] = "Unit #032",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_UnitName_112"] = "Unit #029",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_WptName_436"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_UnitName_143"] = "Unit #012",
+    ["DictKey_GroupName_77"] = "RED10 ",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_WptName_503"] = "",
+    ["DictKey_UnitName_235"] = "Little Miss Texas",
+    ["DictKey_GroupName_155"] = "Anapa AF AAA ",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_GroupName_222"] = "BAI1",
+    ["DictKey_GroupName_204"] = "Nara Does",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_UnitName_232"] = "Pilot #038",
+    ["DictKey_WptName_499"] = "",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_UnitName_197"] = "Pilot #018",
+    ["DictKey_47"] = "RED IS VICTORIOUS!  The resupply convoy has reached Novorrosysk to reprovision remaining Fleet assets.  Congratulations!  BLUEFOR shall now hang their head in shame until Mission rotation.",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_UnitName_185"] = "Unit #188",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_WptName_523"] = "",
+    ["DictKey_UnitName_108"] = "Unit #027",
+    ["DictKey_GroupName_208"] = "Never Give Up",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_UnitName_207"] = "BLUE06",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_45"] = "BLUE IS VICTORIOUS!  All 5 German fleet ships have been destroyed.  Congratulations!  REDFOR shall now hang their head in shame until Mission rotation.",
+    ["DictKey_UnitName_123"] = "Unit #036",
+    ["DictKey_GroupName_57"] = "RED d0o0m",
+    ["DictKey_55"] = "if not Group.getByName('RAI3') then\
+   mist.respawnGroup('RAI3', true)\
+ end",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_UnitName_66"] = "RED14",
+    ["DictKey_GroupName_119"] = "Harbour AAA",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_138"] = "Unit #195",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_GroupName_206"] = "BLUE06",
+    ["DictKey_GroupName_115"] = "Resupply #007",
+    ["DictKey_UnitName_125"] = "Unit #034",
+    ["DictKey_UnitName_182"] = "Unit #191",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_UnitName_104"] = "Unit #025",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_UnitName_190"] = "Unit #183",
+    ["DictKey_GroupName_218"] = "My Achin Back",
+    ["DictKey_UnitName_189"] = "Unit #184",
+    ["DictKey_UnitName_172"] = "Unit #048",
+    ["DictKey_UnitName_126"] = "Unit #033",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_UnitName_179"] = "Unit #041",
+    ["DictKey_UnitName_569"] = "",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_GroupName_69"] = "RED16",
+    ["DictKey_WptName_585"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_UnitName_566"] = "BLUE12",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_WptName_493"] = "",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_230"] = "BAI3",
+    ["DictKey_UnitName_224"] = "BAI1",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_UnitName_162"] = "Unit #018",
+    ["DictKey_WptName_506"] = "",
+    ["DictKey_UnitName_199"] = "Pilot #019",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_GroupName_210"] = "Rampant Horse",
+    ["DictKey_27"] = "do\
+vecflak('red', 'Blueflak2','low',3)\
+end",
+    ["DictKey_UnitName_217"] = "BLUE07",
+    ["DictKey_WptName_487"] = "",
+    ["DictKey_ActionText_535"] = "mist.respawnGroup('RAI4', true)",
+    ["DictKey_UnitName_149"] = "Unit #006",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_UnitName_116"] = "Unit #031",
+    ["DictKey_UnitName_84"] = "RED09",
+    ["DictKey_UnitName_151"] = "Unit #004",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_180"] = "Unit #040",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_WptName_484"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_GroupName_117"] = "Resupply #008",
+    ["DictKey_50"] = "if not Group.getByName('BAI2') then\
+   mist.respawnGroup('BAI2', true)\
+ end",
+    ["DictKey_GroupName_109"] = "Resupply #004",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_GroupName_181"] = "Krymsk AAA",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_WptName_481"] = "",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_UnitName_557"] = "BLUE09",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_GroupName_89"] = "RAI1",
+    ["DictKey_WptName_511"] = "",
+    ["DictKey_UnitName_538"] = "BLUE01",
+    ["DictKey_WptName_491"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_37"] = "do\
+movvecflak('blue','Unit #026','high',1)\
+end",
+    ["DictKey_WptName_527"] = "",
+    ["DictKey_ActionText_536"] = "Mission Rotate",
+    ["DictKey_UnitName_237"] = "Gimme Some Sugar",
+    ["DictKey_UnitName_186"] = "Unit #187",
+    ["DictKey_GroupName_142"] = "Gelendshik AF AAA #001",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_GroupName_198"] = "Gladius Animus",
+    ["DictKey_GroupName_228"] = "BAI3",
+    ["DictKey_UnitName_146"] = "Unit #009",
+    ["DictKey_UnitName_164"] = "Unit #016",
+    ["DictKey_UnitName_136"] = "Unit #197",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_WptName_512"] = "",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_GroupName_111"] = "Resupply #005",
+    ["DictKey_UnitName_94"] = "RAI2",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_100"] = "RAI4",
+    ["DictKey_UnitName_141"] = "Unit #192",
+    ["DictKey_UnitName_145"] = "Unit #010",
+    ["DictKey_22"] = "do\
+vecflak('blue', 'Redflak5','low',3)\
+end",
+    ["DictKey_UnitName_121"] = "Unit #038",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_UnitName_134"] = "Unit #199",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_UnitName_163"] = "Unit #017",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_UnitName_175"] = "Unit #045",
+    ["DictKey_WptName_514"] = "",
+    ["DictKey_GroupName_87"] = "RED15",
+    ["DictKey_descriptionBlueTask_240"] = "[ENGLISH]\
+\
+Krymsk Tower : Channel A *HOMEPLATE*\
+\
+ALLIED WIN if ANY of the following conditions is accomplished\
+(1) Destroy the German  fleet stationed in Novorrosysk harbor 100% before the resupply convoy can reach them.  You have 2 hours to work together.  Gunships in the harbour are on defense while the warships are being reprovisioned.  The cargo convoy also carries their own flak capabilities.\
+(2)  Destroy the 9-ship resupply convoy before it reaches the barbor mouth.  \
+\
+Study the flakmap carefully and note GAPS for exploitation.\
+\
+HINTS\
+\
+*  A belt of insurgents will fire flak at BOTH coalitions.  Note these positions accordingly.\
+*  Use Flak Battery numbers to your advantage - flak can only target the same number of enemy planes as they have battery numbers at any given time!  Team up to hide wingmen.\
+\
+Known Flak Strengths\
+\
+Novorrosysk:  5, High strength each\
+Blue zones: 3, Low strength each\
+Rebel zones: 5, Low strength each\
+Resupply Ships: Suspect 1, high strength each.  Try to seperate ships.\
+\
+[ESPAÑOL]\
+\
+Torre Krymsk: Canal A *HOMEPLATE*\
+\
+Los ALIADOS GANAN si CUALQUIERA de los siguientes objetivos son alcanzados\
+(1) La destrucción del 100% de la flota estacionada en Novorrosysk antes que el convoy de re-suministros puede llegar a ellos. \
+Tiene dos horas para trabajar juntos.  Gunships en el puertos protegen mientras los barcos de guerra se re-aprovisionan. El convoy con carga también posee artillería antiaérea.\
+(2)  La destrucción de los nueve barcos del convoy de  re-suministros antes de que lleguen a la boca del puerto.\
+\
+Estudie el mapa de la artillería antiaérea cuidadosamente y note las brechas para tomar ventaja\
+\
+A tener en cuenta: \
+\
+* Un grupo de subversivos dispará artillería antiaérea a AMBAS coaliciones. Tome nota de esas posiciones. \
+* Use los números de baterías a su ventaja. La artillería antiaérea solo puede apuntar a tantos aviones enemigos como números de baterías haya al mismo tiempo. Haga equipo con un compañero para ocultarse.\
+ \
+Intensidad de las antiaéreas conocidas:\
+\
+Krymsk:  5, Alta intensidad\
+Zonas Aliadas: 3, Baja  intensidad.\
+Zonas Rebeldes: 5, Baja  intensidad\
+",
+    ["DictKey_GroupName_568"] = "",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_GroupName_105"] = "Resupply #002",
+    ["DictKey_WptName_466"] = "",
+    ["DictKey_WptName_582"] = "",
+    ["DictKey_UnitName_576"] = "RED02",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_WptName_564"] = "",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_88"] = "Pilot #030",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_UnitName_195"] = "Pilot #003",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_UnitName_166"] = "Unit #014",
+    ["DictKey_WptName_494"] = "",
+    ["DictKey_UnitName_205"] = "Pilot #022",
+    ["DictKey_UnitName_227"] = "BAI2",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_124"] = "Unit #035",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_439"] = "",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_UnitName_188"] = "Unit #185",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_WptName_509"] = "",
+    ["DictKey_ActionText_533"] = "mist.respawnGroup('RAI2', true)",
+    ["DictKey_UnitName_102"] = "Unit #1",
+    ["DictKey_WptName_577"] = "",
+    ["DictKey_UnitName_137"] = "Unit #196",
+    ["DictKey_descriptionText_238"] = "OPERATION LOOSE LIPS!  [ENGLISH][ESPAÑOL]\
+\
+[ENGLISH]\
+\
+Part of a German fleet is stationed in Novorrosysk.  In support of the Eastern Front, a supply convoy is 2 hours front entering the harbor and resupplying the fleet assets.  BLUE must destroy the german fleet 100% OR the 9-ship resupply convoy from reaching harbor for win.  RED is defensive only.\
+\
+[ESPAÑOL]\
+\
+Parte de la flota alemana está estacionada en Novorrosysk. En apoyo al frente de oriente, un convoy con suministros se encuentra enfrente del puerto y reaprovisionado los equipos de la flota. Los Aliados deben destruir el total de la flota o el convoy de nueve barcos antes de alcanzar el puerto para ganar. El Eje debe proteger los medios de suministros para ganar",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_UnitName_184"] = "Unit #189",
+    ["DictKey_ActionText_529"] = "mist.respawnGroup('BAI2', true)",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_GroupName_98"] = "RAI4",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_UnitName_193"] = "Unit #180",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_GroupName_81"] = "RED14",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_48"] = "RED IS VICTORIOUS!  They have prevented Blue win condition for 2 hours.  Congratulations!  BLUEFOR shall now hang their head in shame until Mission rotation.",
+    ["DictKey_WptName_567"] = "",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_GroupName_571"] = "RED01",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_GroupName_75"] = "RED16",
+    ["DictKey_16"] = "do\
+vecflak('blue', 'Novorossiysk','high',5)\
+end",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_WptName_502"] = "",
+    ["DictKey_GroupName_547"] = "BLUE04",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_UnitName_132"] = "Unit #201",
+    ["DictKey_GroupName_168"] = "Novorrosysk AF AAA #001",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_UnitName_580"] = "RED03",
+    ["DictKey_49"] = "mist.respawnGroup('BAI1', true)",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_UnitName_131"] = "Unit #202",
+    ["DictKey_UnitName_159"] = "Unit #021",
+    ["DictKey_WptName_574"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_GroupName_579"] = "RED03",
+    ["DictKey_UnitName_563"] = "BLUE11",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_229"] = "Pilot #036",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_419"] = "",
+} -- end of dictionary

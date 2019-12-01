@@ -1,0 +1,16 @@
+mapResource = 
+{
+    ["ResKey_Action_2"] = "siren.wav",
+    ["ResKey_Action_6"] = "Radioscanner.wav",
+    ["ResKey_ImageBriefing_11"] = "loose_lips2{93C1891A-C815-4695-9590-C5AE6799F7B8}.jpg",
+    ["ResKey_Action_5"] = "Radioscanner.wav",
+    ["ResKey_Action_4"] = "Radioscanner.wav",
+    ["ResKey_Action_7"] = "mist_4_0_57.lua",
+    ["ResKey_ImageBriefing_9"] = "loose_lips2{4D5B0B23-D000-4802-B957-1FC73B0777DE}.jpg",
+    ["ResKey_ImageBriefing_12"] = "flakmap2{5D53EAD4-0AED-4897-89F7-E8F26F2F81B1}.jpg",
+    ["ResKey_Action_3"] = "Radioscanner.wav",
+    ["ResKey_Action_8"] = "Phone.ogg",
+    ["ResKey_Action_1"] = "siren.wav",
+    ["ResKey_ImageBriefing_10"] = "flakmap2{07E57491-39A2-4e78-9362-EB0AA36ED5B2}.jpg",
+    ["ResKey_Action_528"] = "flakv3_2.lua",
+} -- end of mapResource
