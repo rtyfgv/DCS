@@ -123,6 +123,11 @@ options =
             ["gunCamera"] = 0,
             ["aiHelper"] = false,
         }, -- end of ["MiG-15bis"]
+        ["DCS-SRS"] = 
+        {
+            ["srsAutoLaunchEnabled"] = true,
+            ["srsOverlayEnabled"] = true,
+        }, -- end of ["DCS-SRS"]
         ["SpitfireLFMkIX"] = 
         {
             ["assistance"] = 0,
@@ -146,34 +151,36 @@ options =
             ["rudderTrim"] = 0,
             ["autoRudder"] = false,
         }, -- end of ["Bf-109K-4"]
-        ["TF-51D"] = 
-        {
-            ["assistance"] = 100,
-            ["CPLocalList"] = "default",
-            ["autoRudder"] = false,
-        }, -- end of ["TF-51D"]
-        ["FW-190A8"] = 
-        {
-            ["assistance"] = 100,
-            ["CPLocalList"] = "default",
-            ["autoRudder"] = false,
-        }, -- end of ["FW-190A8"]
         ["FW-190D9"] = 
         {
             ["assistance"] = 0,
             ["CPLocalList"] = "default",
             ["autoRudder"] = false,
         }, -- end of ["FW-190D9"]
+        ["FW-190A8"] = 
+        {
+            ["assistance"] = 100,
+            ["CPLocalList"] = "default",
+            ["autoRudder"] = false,
+        }, -- end of ["FW-190A8"]
+        ["TF-51D"] = 
+        {
+            ["assistance"] = 100,
+            ["CPLocalList"] = "default",
+            ["autoRudder"] = false,
+        }, -- end of ["TF-51D"]
         ["MB-339PAN"] = 
         {
             ["reset"] = false,
             ["resetTrim"] = 0,
             ["speedTrim"] = 0.2,
         }, -- end of ["MB-339PAN"]
-        ["A-10C"] = 
+        ["CaptoGlove"] = 
         {
-            ["CPLocalList"] = "default",
-        }, -- end of ["A-10C"]
+            ["enable"] = false,
+            ["armBending"] = 60,
+            ["mouseClickSrc"] = 0,
+        }, -- end of ["CaptoGlove"]
         ["FC3"] = 
         {
             ["CPLocalList_Su-25"] = "default",
@@ -186,11 +193,10 @@ options =
             ["CPLocalList_MiG-29G"] = "default",
             ["CPLocalList_F-15C"] = "default",
         }, -- end of ["FC3"]
-        ["CaptoGlove"] = 
+        ["A-10C"] = 
         {
-            ["enable"] = false,
-            ["armBending"] = 60,
-        }, -- end of ["CaptoGlove"]
+            ["CPLocalList"] = "default",
+        }, -- end of ["A-10C"]
         ["P-51D"] = 
         {
             ["assistance"] = 0,
@@ -270,19 +276,23 @@ options =
     ["format"] = 1,
     ["sound"] = 
     {
-        ["hear_in_helmet"] = false,
         ["main_output"] = "",
-        ["headphones"] = 100,
-        ["world"] = 100,
-        ["switches"] = 100,
-        ["cockpit"] = 100,
-        ["hp_output"] = "",
-        ["radioSpeech"] = true,
-        ["GBreathEffect"] = true,
-        ["volume"] = 0,
+        ["volume"] = 49,
         ["headphones_on_external_views"] = true,
-        ["music"] = 0,
         ["subtitles"] = true,
+        ["world"] = 100,
+        ["hear_in_helmet"] = false,
+        ["hp_output"] = "",
+        ["switches"] = 100,
+        ["voice_chat_output"] = "",
+        ["cockpit"] = 100,
+        ["voice_chat"] = false,
+        ["GBreathEffect"] = true,
+        ["microphone_use"] = 2,
+        ["radioSpeech"] = true,
+        ["headphones"] = 100,
+        ["music"] = 0,
+        ["voice_chat_input"] = "",
         ["gui"] = 0,
     }, -- end of ["sound"]
     ["views"] = 
