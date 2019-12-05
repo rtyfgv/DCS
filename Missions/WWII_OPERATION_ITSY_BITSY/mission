@@ -932,10 +932,10 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [1] = 130,
+                                                    [2] = 124,
+                                                    [4] = 139,
+                                                    [3] = 131,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -971,7 +971,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_145",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 124,
+                                ["frequency"] = 130,
                             }, -- end of [1]
                             [2] = 
                             {
@@ -1052,10 +1052,10 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [1] = 130,
+                                                    [2] = 124,
+                                                    [4] = 139,
+                                                    [3] = 131,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -1091,7 +1091,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_149",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 124,
+                                ["frequency"] = 130,
                             }, -- end of [2]
                             [3] = 
                             {
@@ -1172,10 +1172,10 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [1] = 130,
+                                                    [2] = 124,
+                                                    [4] = 139,
+                                                    [3] = 131,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -1211,7 +1211,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_153",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 124,
+                                ["frequency"] = 130,
                             }, -- end of [3]
                             [4] = 
                             {
@@ -1292,10 +1292,10 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [1] = 130,
+                                                    [2] = 124,
+                                                    [4] = 139,
+                                                    [3] = 131,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -1331,7 +1331,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_157",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 124,
+                                ["frequency"] = 130,
                             }, -- end of [4]
                             [5] = 
                             {
@@ -1412,10 +1412,10 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [1] = 130,
+                                                    [2] = 124,
+                                                    [4] = 139,
+                                                    [3] = 131,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -1451,7 +1451,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_163",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 124,
+                                ["frequency"] = 130,
                             }, -- end of [5]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
@@ -7839,7 +7839,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -7914,9 +7914,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -7954,7 +7954,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_95",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [1]
                             [2] = 
                             {
@@ -7962,7 +7962,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8037,9 +8037,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8077,7 +8077,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_99",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [2]
                             [3] = 
                             {
@@ -8085,7 +8085,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8160,9 +8160,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8200,7 +8200,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_97",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [3]
                             [4] = 
                             {
@@ -8208,7 +8208,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8283,9 +8283,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8323,7 +8323,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_101",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [4]
                             [5] = 
                             {
@@ -8331,7 +8331,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8406,9 +8406,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8446,7 +8446,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_103",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [5]
                             [6] = 
                             {
@@ -8454,7 +8454,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8532,9 +8532,9 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 40,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8572,7 +8572,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_105",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 40,
+                                ["frequency"] = 39.6,
                             }, -- end of [6]
                             [7] = 
                             {
@@ -8580,7 +8580,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8654,9 +8654,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8694,7 +8694,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_107",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [7]
                             [8] = 
                             {
@@ -8702,7 +8702,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8776,9 +8776,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8816,7 +8816,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_109",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [8]
                             [9] = 
                             {
@@ -8824,7 +8824,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8898,9 +8898,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39.6,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -8938,7 +8938,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_111",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [9]
                             [10] = 
                             {
@@ -8946,7 +8946,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -9023,9 +9023,9 @@ mission =
                                                 }, -- end of ["modulations"]
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -9063,7 +9063,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_113",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [10]
                             [11] = 
                             {
@@ -9071,7 +9071,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -9145,9 +9145,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -9185,7 +9185,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_115",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [11]
                             [12] = 
                             {
@@ -9193,7 +9193,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -9267,9 +9267,9 @@ mission =
                                             {
                                                 ["channels"] = 
                                                 {
-                                                    [2] = 38.4,
+                                                    [1] = 38.4,
                                                     [3] = 41,
-                                                    [1] = 39,
+                                                    [2] = 39.6,
                                                     [4] = 42,
                                                     [5] = 38,
                                                 }, -- end of ["channels"]
@@ -9307,7 +9307,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_117",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 39.6,
                             }, -- end of [12]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
