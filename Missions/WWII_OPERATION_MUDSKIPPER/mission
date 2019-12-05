@@ -2181,9 +2181,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [2] = 132,
+                                                    [4] = 139,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2292,9 +2292,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [2] = 132,
+                                                    [4] = 139,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2406,9 +2406,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [2] = 132,
+                                                    [4] = 139,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2517,9 +2517,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [2] = 132,
+                                                    [4] = 139,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2557,7 +2557,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -2632,9 +2632,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 124,
+                                                    [2] = 132,
                                                     [4] = 139,
-                                                    [3] = 131,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2672,7 +2672,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -2746,9 +2746,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 40,
-                                                    [4] = 42,
-                                                    [3] = 41,
+                                                    [2] = 132,
+                                                    [4] = 139,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -2786,7 +2786,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAS",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -2868,9 +2868,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 124,
+                                                    [2] = 132,
                                                     [4] = 139,
-                                                    [3] = 131,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -8421,7 +8421,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "Reconnaissance",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -8479,9 +8479,9 @@ mission =
                                                 ["channels"] = 
                                                 {
                                                     [1] = 124,
-                                                    [2] = 124,
+                                                    [2] = 132,
                                                     [4] = 139,
-                                                    [3] = 131,
+                                                    [3] = 133,
                                                 }, -- end of ["channels"]
                                             }, -- end of [1]
                                         }, -- end of ["Radio"]
@@ -9214,7 +9214,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -9328,7 +9328,7 @@ mission =
                                 ["name"] = "DictKey_GroupName_961",
                                 ["communication"] = true,
                                 ["start_time"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 38.8,
                             }, -- end of [6]
                             [7] = 
                             {
@@ -9336,7 +9336,7 @@ mission =
                                 ["tasks"] = 
                                 {
                                 }, -- end of ["tasks"]
-                                ["radioSet"] = false,
+                                ["radioSet"] = true,
                                 ["task"] = "CAP",
                                 ["uncontrolled"] = false,
                                 ["route"] = 
@@ -9451,7 +9451,7 @@ mission =
                                 ["communication"] = true,
                                 ["start_time"] = 0,
                                 ["modulation"] = 0,
-                                ["frequency"] = 38.4,
+                                ["frequency"] = 38.8,
                             }, -- end of [7]
                             [8] = 
                             {
