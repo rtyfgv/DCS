@@ -1,0 +1,1 @@
+UPDATE utmp SET ?

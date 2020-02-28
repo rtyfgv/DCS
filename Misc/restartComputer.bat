@@ -1,0 +1,2 @@
+@C:\WINDOWS\SYSTEM32\TASKKILL.EXE /IM DCS.EXE /F /T
+@restartComputer.EXE

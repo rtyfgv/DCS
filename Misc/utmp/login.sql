@@ -1,0 +1,1 @@
+INSERT IGNORE INTO utmp SET ?
