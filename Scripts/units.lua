@@ -11,7 +11,7 @@ unitKeys = {
 	"skill",
 }
 
-myunits = {
+aiPlanes = {
 	["FW-190A8"] = {
 		["hardpoint_racks"] = false,
 		["livery_id"] = "FW-190A8_2.JG 54_Hans Dortenmann",
@@ -359,30 +359,43 @@ function addSubmenu (menu, subMenu, callback)
 	end
 end
 
+planeID = 1
+skillID = 1
+skills  = { 'Excellent', 'High', 'Good', 'Average', }
+planes  = {	'Bf-109K-4', 'FW-190A8', 'FW-190D9', 'I-16', 'P-47D-30', 'P-51D', 'SpitfireLFMkIX',	'SpitfireLFMkIXCW',}
+
+ais = {2, 3, 4, 5}
+ais.nextAI = 1;
+
 do 
-	function spawnCallback(level)
-		trigger.action.setUserFlag('1', level)
+
+	trigger.action.setUserFlag('1', 0)
+	trigger.action.setUserFlag('2', 0)
+
+	function spawnCallback(plane)
+		trigger.action.setUserFlag('1', 1)
 	end
 
 	function destroyCallback(level)
-		trigger.action.setUserFlag('1', level)
+		trigger.action.setUserFlag('2', 1)
 	end
 
 	spawnMenu   = missionCommands.addCommandForCoalition(coalition.side.BLUE, 'Spawn',   nil, spawnCallback, 1)
-	destroyMenu = missionCommands.addCommandForCoalition(coalition.side.BLUE, 'Destroy', nil, destroyCallback, 1)
+--	destroyMenu = missionCommands.addCommandForCoalition(coalition.side.BLUE, 'Destroy', nil, destroyCallback, 1)
+	destroyMenu = missionCommands.addSubMenuForCoalition(coalition.side.BLUE, 'Destroy', nil)
+
 	planeMenu   = missionCommands.addSubMenuForCoalition(coalition.side.BLUE, 'Plane',   nil)
 	skillMenu   = missionCommands.addSubMenuForCoalition(coalition.side.BLUE, 'Skill',   nil)
-	skillLevels = { 'Excellent', 'High', 'Good', 'Average', }
-	planes      = {	'Bf-109K-4', 'FW-190A8', 'FW-190D9', 'I-16', 'P-47D-30', 'P-51D', 'SpitfireLFMkIX',	'SpitfireLFMkIXCW',}
 		
-	function skillCallback(level)
-		trigger.action.setUserFlag('1', level)
+	function skillCallback(id)
+		skillID = id
 	end
-	addSubmenu(skillMenu, skillLevels, skillCallback)
+	addSubmenu(skillMenu, skills, skillCallback)
 
-	function planeCallback(plane)
-		trigger.action.setUserFlag('2', plane)
+	function planeCallback(id)
+		planeID = id
 	end
+
 	addSubmenu(planeMenu, planes, planeCallback)
 end
 
