@@ -369,6 +369,20 @@ ais.nextAI = 1;
 
 do 
 
+	function isAnyAlive ()
+		for k in pairs(ais) do
+			if type(ais[k]) ~= 'number' then
+				env.info('isAnyAlive : ' .. k .. ' -> ' .. ais[k], false)
+--				if Object.isExist(ais[i]) then
+					env.info('isAnyAlive : return true')
+					return true
+--				end
+			end
+		end 
+		env.info('isAnyAlive : return false')
+		return false
+	end
+
 	trigger.action.setUserFlag('1', 0)
 	trigger.action.setUserFlag('2', 0)
 

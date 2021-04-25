@@ -12,12 +12,12 @@ do
 		gai = mist.dynAdd(gai)
 
 		nextAI = ais[ais.nextAI]
-		ais[ais.nextAI] = gai.groupName
+		ais[ais.nextAI] = unitName
 		ais.nextAI = nextAI
 		missionCommands.addCommandForCoalition(coalition.side.BLUE, unitName, destroyMenu, destroyCallback, 1) 
 		trigger.action.setUserFlag('1', 0)
 	end 
-	msg.displayTime = 25  
-	msg.msgFor = {coa = {'all'}} 
-	mist.message.add(msg)
+--	msg.displayTime = 25  
+--	msg.msgFor = {coa = {'all'}} 
+--	mist.message.add(msg)
 end
